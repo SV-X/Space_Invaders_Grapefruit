@@ -1,5 +1,5 @@
 As I am not an artist, I did not design any sprites myself.
-However, I did draw them/recreate them myself via Krita.
+However, I did draw/recreate them myself via Krita.
 
 [Sources]
 
