@@ -6,7 +6,7 @@ However, I did draw/recreate them myself via Krita. <br />
 [Sources] <br />
 
 Code: <br />
-Outline.py- https://github.com/Mekire/pygame-image-outline/ <br />
+Outline.py - https://github.com/Mekire/pygame-image-outline/ <br />
 
 Sprites: <br />
 Aliens - Space Invaders <br />
